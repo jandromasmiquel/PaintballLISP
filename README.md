@@ -9,6 +9,8 @@ Un juego de simulación de estrategia y combate Paintball por turnos con agentes
 
 El proyecto consiste en un motor de juego en **XLISP** donde dos equipos compiten por controlar el mapa pintando casillas y eliminando/inhabilitando unidades enemigas. Los agentes toman decisiones autónomas en cada turno utilizando escuadrones, roles estratégicos (exploración, ataque, defensa), memoria compartida y visibilidad limitada (línea de visión / niebla de guerra).
 
+El proyecto se desarrollo como una practica para la asignatura de Lenguajes de programación curso 2025-2026
+
 ###  Características Principales
 - **Motor de Juego por Turnos:** Hasta 1500 rondas con gestión de unidades, laboratorios, pintura y economía.
 - **Interfaz Gráfica Integrada:** Visualización en tiempo real del tablero, casillas pintadas por cada equipo y estado de unidades mediante primitivas XLISP Win32.
