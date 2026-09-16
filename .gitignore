@@ -1,0 +1,7 @@
+# Archivos temporales de editor / SO
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
